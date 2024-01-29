@@ -1,0 +1,15 @@
+# Meteor-specific
+.meteor/local
+.meteor/build
+.meteor/packages
+.meteor/versions
+
+# Node.js
+node_modules/
+
+# IntelliJ IDEA
+.idea/
+
+# Visual Studio Code
+.vscode/
+
